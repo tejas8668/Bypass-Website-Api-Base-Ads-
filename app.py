@@ -15,6 +15,7 @@ api_endpoints = [
     "https://bypass-api-1.onrender.com/api/decode_url?url={}",
     "https://perfect-bria-tej-fded6488.koyeb.app/api/decode_url?url={}",
     "https://bypass-api-3.vercel.app/api/decode_url?url={}",
+    "https://bypass-api-4.onrender.com/api/decode_url?url={}",
 ]
 
 # Counter for round-robin
